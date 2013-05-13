@@ -1,0 +1,20 @@
+{
+  "name": "format.js",
+  "version": "0.0.1",
+  "description": "This standalone number formatter is intended to be short and fast.",
+  "keywords": [
+    "number",
+    "currency",
+    "format",
+    "formatter"
+  ],
+  "scripts": [
+    "format.js"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/falsetto/javascript-number-formatter.git"
+  }
+}
+
